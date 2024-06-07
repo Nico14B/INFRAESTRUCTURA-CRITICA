@@ -1,0 +1,162 @@
+
+---
+title: Infraestructura crítica- "PH G 11"
+authors:
+  - name: Lucas D'Angelo
+    thanks: 
+    department: Estudiante Ingeniería industrial
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Argentina
+    email: dangelolucas040@gmail.com
+  - name: Nicolás Bartolini
+    thanks:
+    department: Estudiante Ingeniería industrial
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Argentina
+    email: nico14bartolini@gmail.com  
+  - name: Martín Kotlik
+    thanks: 
+    department: Estudiante Ingeniería industrial
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Argentina
+    email: martinkotlik12@gmail.com 
+  - name: Loic Cheron
+    thanks: 
+    department: Estudiante Ingeniería industrial
+    affiliation: Universidad Nacional de Cuyo
+    location: Normandía, Francia
+    email: loic.cheron76490@gmail.com 
+  - name: Lucas Reinoso
+    thanks:
+    department: Estudiante Ingeniería industrial
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Argentina
+    email: lucasreinoso555@gmail.com
+  - name: Juan Francisco Brusadin
+    thanks:
+    department: Estudiante Ingeniería industrial
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Argentina
+    email: jfbrusadin@gmail.com
+  - name: Cristian Puliafito
+    thanks:
+    department: Estudiante Ingeniería industrial
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Argentina
+    email: catanpulia@gmail.com                     
+
+bibliography: references.bib
+biblio-style: apa
+output: rticles::arxiv_article
+---
+
+\newpage
+## Infraestructura crítica
+
+Para empezar a relacionarnos con el tema debemos definir primero qué es una infraestructura crítica. Según la Unión Europea, "son los sistemas sociotecnológicos situados en los estados miembros que son esenciales para el mantenimiento de funciones sociales vitales cuya perturbación o destrucción afectará gravemente al funcionamiento de tales sociedades".
+
+Al analizar esta definición podemos resaltar las siguientes:
+
+- **Sistema sociotecnológico**: Un sistema sociotécnico (SST) es un sistema compuesto por elementos tanto sociales como técnicos. Los elementos sociales incluyen a las personas, las organizaciones y las instituciones que interactúan con el sistema. Los elementos técnicos incluyen las tecnologías, los procesos y los artefactos que se utilizan en el sistema. Los SST son complejos y dinámicos, difíciles de entender y en constante cambio. También son adaptativos, lo que significa que pueden cambiar y evolucionar con el tiempo para adaptarse a nuevas circunstancias.
+
+- **Esenciales**: Cita de Trist (1981): "Los elementos esenciales de un sistema son aquellos que son necesarios para su funcionamiento."
+
+- **Perturbación o destrucción**: Estas palabras se refieren a cualquier tipo de interferencia o daño que pueda afectar a los sistemas o elementos en cuestión. Esto podría incluir ataques físicos, ciberataques, desastres naturales o incluso errores humanos.
+
+Habiendo establecido una comprensión clara de la naturaleza y el alcance de la infraestructura crítica, podemos proceder a un análisis más profundo de su papel en el contexto de los servicios de emergencia.
+
+## Servicios de emergencia
+
+Según la Agencia de Seguridad de Infraestructura y Ciberseguridad (CISA) de los Estados Unidos, un "servicio de emergencia" se define como un conjunto de actividades y organizaciones que trabajan juntas para salvar vidas, proteger la propiedad y el medio ambiente, y ayudar en la recuperación después de emergencias y desastres. CISA identifica 17 subsectores específicos dentro del Sector de Servicios de Emergencia, incluyendo:
+
+- Primeros respondedores: Bomberos, paramédicos, oficiales de policía, personal de búsqueda y rescate.
+- Gestión de emergencias: Agencias gubernamentales y organizaciones no gubernamentales que coordinan la respuesta a emergencias.
+- Comunicaciones de emergencia: Sistemas de comunicación utilizados para responder a emergencias.
+- Alarma y notificación pública: Sistemas para alertar al público sobre emergencias.
+- Atención médica de emergencia: Hospitales, clínicas y otros proveedores de atención médica que brindan atención durante emergencias.
+- Salud pública: Agencias gubernamentales y organizaciones que protegen la salud pública durante emergencias.
+- Transporte de emergencia: Sistemas de transporte utilizados para responder a emergencias.
+- Servicios públicos de emergencia: Empresas que proporcionan servicios públicos esenciales durante emergencias, como electricidad, agua y gas.
+- Infraestructura de información y comunicaciones críticas (CICI): Sistemas de información y comunicaciones que son esenciales para la respuesta a emergencias.
+- Gobierno estatal y local: Agencias gubernamentales estatales y locales que responden a emergencias.
+- Organizaciones sin fines de lucro: Organizaciones sin fines de lucro que brindan asistencia durante emergencias.
+- Sector privado: Empresas que brindan productos y servicios esenciales durante emergencias.
+- Infraestructura física: Sistemas físicos que son esenciales para la respuesta a emergencias, como carreteras, puentes y túneles.
+- Infraestructura cibernética: Sistemas cibernéticos que son esenciales para la respuesta a emergencias.
+- Investigación y desarrollo: Investigación y desarrollo relacionados con la respuesta a emergencias.
+- Educación y capacitación: Educación y capacitación relacionadas con la respuesta a emergencias.
+
+Los servicios de emergencia son pilares fundamentales de la sociedad moderna. Su rol va más allá de responder a situaciones de crisis inmediatas; son elementos esenciales para la seguridad pública, la protección del medio ambiente y la recuperación ante desastres. Su importancia radica en 4 puntos fundamentales:
+
+- Salvar vidas: Brindan atención médica inmediata a personas heridas o enfermas en situaciones críticas, aumentando las posibilidades de supervivencia.
+- Proteger la propiedad: Combaten incendios, controlan derrames de materiales peligrosos y mitigan otros eventos que podrían dañar bienes y propiedades.
+- Salvaguardar el medio ambiente: Responden a desastres naturales y accidentes ambientales, minimizando el impacto en el ecosistema y la salud pública.
+- Facilitar la recuperación: Coordinan esfuerzos para restaurar la normalidad tras emergencias, restableciendo servicios básicos y apoyando a las comunidades afectadas.
+
+En definitiva, los servicios de emergencia son indispensables para la seguridad y el bienestar de la sociedad. Su labor incansable protege a las personas, sus bienes y el medio ambiente, garantizando una respuesta efectiva ante situaciones de crisis y facilitando la recuperación en el camino hacia la normalidad.
+
+## Riesgos sobre los servicios de emergencia
+
+El Sector de Servicios de Emergencia (ESS) en Estados Unidos se encuentra ante un panorama desafiante. Las amenazas y vulnerabilidades a las que enfrenta son cada vez más complejas y diversas, desde desastres naturales hasta ataques cibernéticos y pandemias. Para hacer frente a estos desafíos, el ESS ha desarrollado un plan estratégico integral que busca fortalecer su capacidad de respuesta, proteger la infraestructura crítica y garantizar la seguridad de la nación.
+
+El plan estratégico integral se basa en los siguientes puntos:
+
+- **Fortalecer la infraestructura crítica**: Modernizar, proteger y actualizar redes de comunicación, sistemas de transporte, servicios públicos e infraestructura CICI. Implementar medidas de seguridad física y cibernética. Desarrollar planes de recuperación y continuidad del negocio.
+- **Mejorar la coordinación entre agencias**: Establecer mecanismos de coordinación más efectivos a nivel federal, estatal y local. Implementar sistemas de información y comunicación interoperables. Realizar ejercicios y simulacros conjuntos.
+- **Aumentar la preparación para diversas amenazas**: Desarrollar planes de respuesta específicos para diferentes tipos de amenazas. Capacitar al personal del ESS en la gestión de emergencias complejas. Adquirir equipos y suministros necesarios.
+- **Promover la investigación y el desarrollo**: Financiar investigaciones para desarrollar nuevas tecnologías y herramientas. Fomentar la colaboración entre el sector público y privado. Intercambiar conocimientos y mejores prácticas con otros países.
+- **Mejorar la comunicación y la educación pública**: Informar al público sobre los riesgos potenciales y cómo prepararse para emergencias. Educar sobre la importancia de la infraestructura crítica del ESS y cómo protegerla. Fomentar la participación ciudadana en la planificación y preparación para emergencias.
+
+Los servicios de emergencia no podrían funcionar sin la infraestructura crítica que los sustenta. Esta red invisible de sistemas físicos y digitales es la columna vertebral que permite a estos profesionales responder a emergencias, proteger a las personas y bienes, y facilitar la recuperación tras desastres.
+
+## ¿Por qué es tan importante la infraestructura crítica?
+
+La infraestructura crítica es vital para los servicios de emergencia por varias razones. Permite una respuesta rápida y eficaz al facilitar que las redes de comunicación, los sistemas de transporte y los servicios públicos permitan a los servicios de emergencia llegar al lugar de la emergencia lo antes posible, proporcionar asistencia a las personas afectadas y restaurar los servicios básicos esenciales. También minimiza los daños y las pérdidas, ya que una infraestructura crítica robusta y bien mantenida puede ayudar a prevenir o mitigar los daños causados por emergencias, protegiendo vidas, propiedades y el medio ambiente. Además, facilita la recuperación porque, tras una emergencia, la infraestructura crítica es fundamental para la reconstrucción de las comunidades afectadas y la restauración de la normalidad.
+
+## ¿Cómo podemos proteger la infraestructura crítica?
+
+La protección de la infraestructura crítica es un desafío constante que requiere un enfoque integral. Esto incluye la inversión en seguridad, ya que es necesario invertir en la actualización, modernización y protección de la infraestructura crítica para hacerla más resistente a amenazas naturales y cibernéticas. También implica la cooperación entre sectores, donde los gobiernos, las empresas del sector privado y las organizaciones de la sociedad civil deben trabajar juntos para desarrollar e implementar estrategias de protección de la infraestructura crítica. Además, la conciencia pública es fundamental, siendo importante educar al público sobre la importancia de la infraestructura crítica y cómo pueden contribuir a su protección.
+
+## Diferenciación de países
+
+En Estados Unidos, los servicios de emergencia se consideran infraestructura crítica debido a su rol vital en la protección de la vida, la propiedad y la economía. Esta clasificación se basa en varios fundamentos. Primero, los servicios de emergencia dependen tanto de la infraestructura física como de la digital, incluyendo redes de comunicación, sistemas de transporte, servicios públicos y tecnología de información. Segundo, las interrupciones en su funcionamiento pueden afectar negativamente la productividad, el comercio y el turismo, además de generar ansiedad en la población, impactando así la economía y el bienestar social.
+
+Otro enfoque es el de Reino Unido, donde los servicios de emergencia, aunque no se definen explícitamente como infraestructura crítica, se consideran un sector esencial y se les brinda protección especial bajo diferentes leyes y regulaciones. Esta clasificación se basa en varios fundamentos. Por un lado, los servicios de emergencia juegan un rol crucial en la protección de la vida y la propiedad, siendo esenciales para responder a emergencias y garantizar la seguridad pública. Por otro lado, existe un marco legal específico para su protección, como la Ley de Seguridad y Protección Civil de 2018, que establece un marco legal para la protección de la infraestructura crítica, incluyendo los servicios de emergencia.
+
+Las diferencias en la consideración y protección de los servicios de emergencia como infraestructura crítica entre Estados Unidos y el Reino Unido reflejan distintos enfoques y marcos legales en cada país. Estas diferencias pueden observarse en aspectos como la definición explícita, el enfoque en la seguridad pública y el marco legal específico.
+
+- **Definición explícita**: En Estados Unidos, la ley define explícitamente a los servicios de emergencia como infraestructura crítica, mientras que en el Reino Unido no existe una definición explícita pero se consideran esenciales.
+- **Enfoque en la seguridad pública**: En ambos países, los servicios de emergencia se consideran esenciales para la protección de la vida y la propiedad, pero en Estados Unidos se hace un mayor énfasis en su papel en la protección de la economía y el bienestar social.
+- **Marco legal específico**: En el Reino Unido, la Ley de Seguridad y Protección Civil establece un marco legal específico para la protección de los servicios de emergencia como infraestructura crítica, mientras que en Estados Unidos la ley de infraestructura crítica cubre una gama más amplia de sectores.
+
+## Conclusiones
+
+En un mundo expuesto a diversos riesgos y amenazas, la protección de la infraestructura crítica se ha convertido en una prioridad global. Dentro de este panorama, los servicios de emergencia juegan un papel fundamental, garantizando la respuesta rápida y eficaz ante situaciones de crisis que amenazan la vida, la propiedad y el bienestar de la población.
+
+La clasificación de los servicios de emergencia como infraestructura crítica es un tema crucial que ha ganado relevancia en los últimos años. Esta clasificación no solo reconoce la importancia vital de estos servicios, sino que también destaca la necesidad de brindarles la visibilidad y el apoyo adecuados para garantizar su correcto funcionamiento y fortalecer su resiliencia ante las adversidades.
+
+La visibilidad de los servicios de emergencia como infraestructura crítica es fundamental por varias razones:
+
+- **Concientización pública:** Es crucial que la población comprenda el rol vital que juegan los servicios de emergencia en la protección de la sociedad. Esta concientización permite generar un mayor sentido de responsabilidad y colaboración entre la ciudadanía y los organismos de emergencia.
+  
+- **Asignación de recursos:** La visibilidad de estos servicios como infraestructura crítica facilita la asignación adecuada de recursos financieros, humanos y tecnológicos para fortalecer su capacidad operativa y mejorar su respuesta ante situaciones de crisis.
+  
+- **Cooperación internacional:** La visibilidad a nivel global permite fomentar la cooperación entre países y organizaciones internacionales para el intercambio de buenas prácticas, la transferencia de tecnología y la asistencia mutua en caso de desastres o emergencias de gran escala.
+
+En definitiva, la clasificación de los servicios de emergencia como infraestructura crítica y la visibilización de su importancia son medidas esenciales para garantizar la seguridad y el bienestar de la población a nivel global. Fortalecer esta alianza vital es una tarea crucial para asegurar la capacidad de respuesta ante situaciones de crisis, proteger a la población y construir un mundo más resiliente ante las amenazas y desafíos que surgen en un entorno cada vez más complejo e interconectado.
+
+\newpage
+## Bibliografía
+
+- Trist, E. L. (1981). The social environment of organizations. London: Oxford University Press.
+- Mumford, E. (2003). "What is sociotechnical systems design?" In D. Avison, J. J. Overall, & J. I. Williams (Eds.), The social context of information systems (pp. 33-51). Amsterdam: Elsevier.
+- Organización Internacional de Protección Civil (ICPO). (Sin fecha). Recuperado de https://icdo.org/
+- Agencia de Seguridad de Infraestructura y Ciberseguridad (CISA). (Sin fecha). "Critical Infrastructure Security and Resilience." Recuperado de https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors/emergency-services-sector
+- Ley de Seguridad de la Infraestructura Crítica y Protección de Activos (CIPR) de Estados Unidos. (Sin fecha). Recuperado de https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/31/a-proclamation-on-critical-infrastructure-security-and-resilience-month-2023/
+
+
+
+
+
+
+
